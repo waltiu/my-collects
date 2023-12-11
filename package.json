@@ -1,0 +1,22 @@
+{
+  "name": "my-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltiu/my-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltiu/my-doc/issues"
+  },
+  "homepage": "https://github.com/waltiu/my-doc#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
