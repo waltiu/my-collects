@@ -1,4 +1,6 @@
-## react-lottie 
-Lottie 是一个跨平台的动画库。设计小姐姐使用 AE 制作并导出的动画文件（ JSON 格式），Lottie 可以在各个终端快速解析这个 JSON 文件，从而还原动画，简单快速。
-## patch-package
-修改node_modules中的源代码
+
+## 分享一些好用的软件
+* [**GitKraken**](https://www.gitkraken.com/) - 可视化的代码提交工具
+* [**pixpin**](https://pixpinapp.com/r) - 截图软件
+* [**listen1**](http://listen1.ydqyxx.cn) - 音乐播放器
+* [**SwitchHosts**](https://github.com/oldj/SwitchHosts) - host切换
