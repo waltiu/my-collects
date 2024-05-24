@@ -6,3 +6,4 @@
 * [**谷歌浏览器历史包**](https://chromium.cypress.io/)
 * [**媒体相关基础知识**](https://www.yuque.com/webmedia/handbook)
 * [**CSS可视化编辑**](https://css.bqrdh.com/clip-path/editor)
+* [**CSS雪碧图在线合成**](https://www.toptal.com/developers/css/sprite-generator)
